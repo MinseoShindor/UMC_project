@@ -10,6 +10,24 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.UMC_Project">
         <activity
+            android:name=".managerVolunteer"
+            android:exported="true" />
+        <activity
+            android:name=".managerVolunsup"
+            android:exported="true" />
+        <activity
+            android:name=".managerProfile"
+            android:exported="true" />
+        <activity
+            android:name=".ManagerMenu"
+            android:exported="true" />
+        <activity
+            android:name=".managerCalendar"
+            android:exported="true" />
+        <activity
+            android:name=".Login"
+            android:exported="true" />
+        <activity
             android:name=".SignUpCheck"
             android:exported="true" />
         <activity

@@ -77,6 +77,7 @@ public class CustomAdapter extends BaseAdapter {
         }
 
         CustomDTO dto = listCustom.get(position);
+
         holder.imageView.setImageResource(dto.getResId());
 
         holder.ResId.setText(dto.getResId());

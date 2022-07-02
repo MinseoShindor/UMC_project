@@ -16,8 +16,16 @@ class PreLogin : AppCompatActivity() {
         binding = ActivityPreLoginBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        binding.preLoginSingUpTv.setOnClickListener {
+        binding.preLoginSignUpTv.setOnClickListener {
             startActivity(Intent(this, SignUpCheck::class.java))
+        }
+
+        binding.preLoginLoginBtn.setOnClickListener {
+            startActivity(Intent(this, Login::class.java))
+        }
+
+        binding.managerView.setOnClickListener {
+            startActivity(Intent(this, ManagerMenu::class.java))
         }
 
     }
