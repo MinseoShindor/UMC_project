@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/USER/AndroidStudioProjects/UMC_Project/app/src/main/res/drawable/button_background_bear_color.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/UMC_Project/app/src/main/res/drawable/main_gradient.xml" value="0.21296296296296297" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/UMC_Project/app/src/main/res/drawable/manager_btn_background.xml" value="0.2175925925925926" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/UMC_Project/app/src/main/res/drawable/volunteer_btn_background.xml" value="0.152" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/UMC_Project/app/src/main/res/layout/activity_list_view.xml" value="0.264" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/UMC_Project/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/UMC_Project/app/src/main/res/layout/activity_pre_login.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/UMC_Project/app/src/main/res/layout/activity_sign_up.xml" value="0.4" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/UMC_Project/app/src/main/res/layout/activity_sign_up_check.xml" value="0.264" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/UMC_Project/app/src/main/res/layout/activity_sign_up_manager.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/UMC_Project/app/src/main/res/layout/activity_sign_up_volunteer.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/UMC_Project/app/src/main/res/layout/fragment_list.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/UMC_Project/app/src/main/res/layout/item_custom.xml" value="0.4460227272727273" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/UMC_Project/app/src/main/res/layout/main_gradient.xml" value="0.18432971014492755" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

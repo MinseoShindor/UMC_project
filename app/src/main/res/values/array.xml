@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="ResId">
+        <item>@drawable/dog_iv1</item>
+        <item>@drawable/dog_iv2</item>
+        <item>@drawable/dog_iv3</item>
+        <item>@drawable/dog_iv4</item>
+        <item>@drawable/dog_iv5</item>
+        <item>@drawable/dog_iv6</item>
+    </integer-array>
+
+    <string-array name="departureDate">
+        <item>20220801</item>
+        <item>20221103</item>
+        <item>20220922</item>
+        <item>20221223</item>
+        <item>20220725</item>
+        <item>20221116</item>
+    </string-array>
+
+    <string-array name="region">
+        <item>서울 서초구</item>
+        <item>서울 중구</item>
+        <item>수원 권선구</item>
+        <item>대전 서구</item>
+        <item>대구 남구</item>
+        <item>부산 연제구</item>
+    </string-array>
+
+    <string-array name="type">
+        <item>강아지</item>
+        <item>강아지</item>
+        <item>강아지</item>
+        <item>강아지</item>
+        <item>강아지</item>
+        <item>강아지</item>
+    </string-array>
+
+
+    <string-array name="name">
+        <item>믹스</item>
+        <item>닥스훈트</item>
+        <item>믹스</item>
+        <item>치와와</item>
+        <item>믹스</item>
+        <item>믹스</item>
+    </string-array>
+
+
+
+
+</resources>
